@@ -1,0 +1,6 @@
+{
+  "SUCCESS": "interstellar-ui:alert:success",
+  "INFO": "interstellar-ui:alert:info",
+  "WARNING": "interstellar-ui:alert:warning",
+  "ERROR": "interstellar-ui:alert:error"
+}

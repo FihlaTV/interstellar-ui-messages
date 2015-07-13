@@ -1,0 +1,22 @@
+{
+  "name": "interstellar-ui-messages",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "stellar",
+    "interstellar"
+  ],
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Stellar Development Foundation <stellar@stellar.org>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stellar/interstellar-notifications.git"
+  },
+  "dependencies": {
+    "interstellar-core": "^0.0.2",
+    "lodash": "^2.4.1"
+  }
+}

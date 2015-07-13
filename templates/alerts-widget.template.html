@@ -1,0 +1,9 @@
+<div ng-controller="interstellar-ui-messages.AlertsWidgetController as widget">
+  <ul ng-if="widget.alerts.length > 0">
+    <li ng-repeat="alert in widget.alerts">
+      [{{alert.type}}]:<br />
+      <b>{{alert.title}}</b> {{alert.text}}
+      <a href="#" ng-if="alert.dismissible" ng-click="widget.dismissAlert($event, $index);">[x]</a>
+    </li>
+  </ul>
+</div>
