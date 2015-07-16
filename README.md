@@ -36,7 +36,7 @@ import {Alert} from 'interstellar-ui-messages';
 let alert = new Alert({
   title: 'Password is incorrect',
   text: 'Make sure you are using a correct password to login.`,
-  type: Alert.TYPES.ERROR
+  type: Alert.TYPES.ERROR,
   dismissible: false // default true
 });
 ```
@@ -71,7 +71,7 @@ Alerts.registerGroup(alertGroup);
 let alert = new Alert({
   title: 'Password is incorrect',
   text: 'Make sure you are using a correct password to login.`,
-  type: Alert.TYPES.ERROR
+  type: Alert.TYPES.ERROR,
   dismissible: false // default true
 });
 alertGroup.show(alert);
