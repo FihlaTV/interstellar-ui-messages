@@ -1,6 +1,6 @@
 {
   "name": "interstellar-ui-messages",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "keywords": [
     "stellar",
@@ -13,7 +13,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "http://github.com/stellar/interstellar-notifications.git"
+    "url": "http://github.com/stellar/interstellar-ui-notifications.git"
   },
   "dependencies": {
     "interstellar-core": "^0.0.2",
