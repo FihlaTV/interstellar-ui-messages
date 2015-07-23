@@ -1,6 +1,6 @@
 {
   "name": "interstellar-ui-messages",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "keywords": [
     "stellar",
@@ -16,7 +16,7 @@
     "url": "http://github.com/stellar/interstellar-ui-notifications.git"
   },
   "dependencies": {
-    "interstellar-core": "^0.0.2",
+    "interstellar-core": "^0.0.3",
     "lodash": "^2.4.1"
   }
 }
