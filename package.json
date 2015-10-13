@@ -16,7 +16,7 @@
     "url": "http://github.com/stellar/interstellar-ui-notifications.git"
   },
   "dependencies": {
-    "interstellar-core": "^0.0.3",
-    "lodash": "^2.4.1"
+    "interstellar-core": "~0.0.3",
+    "lodash": "~2.4.1"
   }
 }
